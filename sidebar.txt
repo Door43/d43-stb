@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[stb:home|Door43 (stb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-stb|d43-stb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-stb/archive/master.zip|d43-stb.zip]]
+
+**Recent Changes**
+{{changes>ns = stb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/stb|Ethnologue data]]
+
